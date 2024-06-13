@@ -1,0 +1,35 @@
+object dbconn: Tdbconn
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object FDConnection1: TFDConnection
+    Params.Strings = (
+      'Database=C:\Users\Dell\Desktop\DELPHI\SpaCentar.db'
+      'DriverID=SQLite')
+    Connected = True
+    Left = 152
+    Top = 128
+  end
+  object FDQuery1: TFDQuery
+    Connection = FDConnection1
+    SQL.Strings = (
+      ''
+      'SELECT Opis FROM O_Uslugama WHERE Naziv ='#39'Bazen'#39
+      ''
+      ''
+      '   ')
+    Left = 344
+    Top = 192
+  end
+  object DataSource1: TDataSource
+    DataSet = FDQuery1
+    Left = 448
+    Top = 352
+  end
+end

@@ -1,0 +1,45 @@
+object Pregled: TPregled
+  Left = 0
+  Top = 0
+  Caption = 'Form3'
+  ClientHeight = 525
+  ClientWidth = 783
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object RectAnimation1: TRectAnimation
+    Duration = 0.200000002980232200
+  end
+  object Rectangle2: TRectangle
+    Align = Client
+    Fill.Color = claMoccasin
+    Size.Width = 783.000000000000000000
+    Size.Height = 525.000000000000000000
+    Size.PlatformDefault = False
+    object Text1: TText
+      Position.X = 256.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 257.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Pregled poru'#269'enih usluga'
+      TextSettings.Font.Size = 20.000000000000000000
+    end
+    object ListView1: TListView
+      ItemAppearanceClassName = 'TListItemAppearance'
+      ItemEditAppearanceClassName = 'TListItemShowCheckAppearance'
+      HeaderAppearanceClassName = 'TListHeaderObjects'
+      FooterAppearanceClassName = 'TListHeaderObjects'
+      Position.X = 48.000000000000000000
+      Position.Y = 66.000000000000000000
+      Size.Width = 689.000000000000000000
+      Size.Height = 361.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      OnChange = ListView1Change
+      OnItemClick = ListView1ItemClick
+    end
+  end
+end

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/06/01 20:59:15.000.083,=C:\Users\miki\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2024/06/01 23:00:09.000.799,C:\Users\miki\Desktop\DELPHI\Unit3.fmx=C:\Users\miki\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
+    <Transaction>2024/06/01 23:00:09.000.799,C:\Users\miki\Desktop\DELPHI\Unit3.pas=C:\Users\miki\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2024/06/01 23:00:56.000.487,C:\Users\miki\Desktop\DELPHI\Project2.dproj=C:\Users\miki\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024/06/02 22:12:08.000.585,=C:\Users\miki\Desktop\DELPHI\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 23:20:18.000.927,=C:\Users\miki\Desktop\DELPHI\Unit2.pas</Transaction>
+    <Transaction>2024/06/03 00:01:31.000.392,=C:\Users\miki\Desktop\DELPHI\Unit4.pas</Transaction>
+    <Transaction>2024/06/03 02:52:00.000.901,=C:\Users\miki\Desktop\DELPHI\Unit5.pas</Transaction>
+    <Transaction>2024/06/03 07:55:43.000.420,=C:\Users\miki\Desktop\DELPHI\Unit6.pas</Transaction>
+    <Transaction>2024/06/03 07:57:18.000.506,C:\Users\miki\Desktop\DELPHI\Tepidarijum.pas=C:\Users\miki\Desktop\DELPHI\Unit5.pas</Transaction>
+    <Transaction>2024/06/03 07:57:18.000.506,C:\Users\miki\Desktop\DELPHI\Tepidarijum.fmx=C:\Users\miki\Desktop\DELPHI\Unit5.fmx</Transaction>
+    <Transaction>2024/06/03 07:57:58.000.371,C:\Users\miki\Desktop\DELPHI\Unit5.fmx=C:\Users\miki\Desktop\DELPHI\Tepidarijum.fmx</Transaction>
+    <Transaction>2024/06/03 07:57:58.000.371,C:\Users\miki\Desktop\DELPHI\Unit5.pas=C:\Users\miki\Desktop\DELPHI\Tepidarijum.pas</Transaction>
+    <Transaction>2024/06/03 08:00:20.000.789,C:\Users\miki\Desktop\DELPHI\FinskaBio.pas=C:\Users\miki\Desktop\DELPHI\Unit6.pas</Transaction>
+    <Transaction>2024/06/03 08:00:20.000.789,C:\Users\miki\Desktop\DELPHI\FinskaBio.fmx=C:\Users\miki\Desktop\DELPHI\Unit6.fmx</Transaction>
+    <Transaction>2024/06/03 08:01:24.000.200,C:\Users\miki\Desktop\DELPHI\ComboBox.pas=C:\Users\miki\Desktop\DELPHI\Unit1.pas</Transaction>
+    <Transaction>2024/06/03 08:01:24.000.200,C:\Users\miki\Desktop\DELPHI\ComboBox.fmx=C:\Users\miki\Desktop\DELPHI\Unit1.fmx</Transaction>
+    <Transaction>2024/06/03 08:05:12.000.811,C:\Users\miki\Desktop\DELPHI\Pocetna.pas=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/03 08:05:12.000.811,C:\Users\miki\Desktop\DELPHI\Pocetna.fmx=C:\Users\miki\Desktop\DELPHI\Unit3.fmx</Transaction>
+    <Transaction>2024/06/03 08:39:56.000.650,=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/03 08:40:10.000.945,C:\Users\miki\Desktop\DELPHI\Admin.fmx=C:\Users\miki\Desktop\DELPHI\Unit3.fmx</Transaction>
+    <Transaction>2024/06/03 08:40:10.000.945,C:\Users\miki\Desktop\DELPHI\Admin.pas=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/03 09:01:45.000.484,=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/03 09:02:00.000.150,C:\Users\miki\Desktop\DELPHI\AdminPanel.pas=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/03 09:02:00.000.150,C:\Users\miki\Desktop\DELPHI\AdminPanel.fmx=C:\Users\miki\Desktop\DELPHI\Unit3.fmx</Transaction>
+    <Transaction>2024/06/03 13:32:07.000.870,C:\Users\miki\Desktop\DELPHI\AdminPanel.pas=</Transaction>
+    <Transaction>2024/06/03 13:32:32.000.222,=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/03 13:32:46.000.645,C:\Users\miki\Desktop\DELPHI\AdminPanel.pas=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/03 13:32:46.000.645,C:\Users\miki\Desktop\DELPHI\AdminPanel.fmx=C:\Users\miki\Desktop\DELPHI\Unit3.fmx</Transaction>
+    <Transaction>2024/06/03 14:26:55.000.336,=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/03 14:27:03.000.561,C:\Users\miki\Desktop\DELPHI\SpecijalnePonude.pas=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/03 14:27:03.000.561,C:\Users\miki\Desktop\DELPHI\SpecijalnePonude.fmx=C:\Users\miki\Desktop\DELPHI\Unit3.fmx</Transaction>
+    <Transaction>2024/06/03 22:47:49.000.808,=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/03 22:48:17.000.530,C:\Users\miki\Desktop\DELPHI\ZakaziTermin.fmx=C:\Users\miki\Desktop\DELPHI\Unit3.fmx</Transaction>
+    <Transaction>2024/06/03 22:48:17.000.530,C:\Users\miki\Desktop\DELPHI\ZakaziTermin.pas=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/05 20:56:22.000.722,=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/05 20:57:45.000.977,C:\Users\miki\Desktop\DELPHI\Unit3.fmx=C:\Users\miki\Desktop\DELPHI\Cena.fmx</Transaction>
+    <Transaction>2024/06/05 20:57:45.000.977,C:\Users\miki\Desktop\DELPHI\Unit3.pas=C:\Users\miki\Desktop\DELPHI\Cena.pas</Transaction>
+    <Transaction>2024/06/05 21:01:26.000.034,C:\Users\miki\Desktop\DELPHI\Cena.fmx=C:\Users\miki\Desktop\DELPHI\Cenovni.fmx</Transaction>
+    <Transaction>2024/06/05 21:01:26.000.034,C:\Users\miki\Desktop\DELPHI\Cena.pas=C:\Users\miki\Desktop\DELPHI\Cenovni.pas</Transaction>
+    <Transaction>2024/06/06 09:24:43.000.661,=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/06 09:25:04.000.852,C:\Users\miki\Desktop\DELPHI\Unit3.pas=C:\Users\miki\Desktop\DELPHI\Kontakt.pas</Transaction>
+    <Transaction>2024/06/06 09:25:04.000.852,C:\Users\miki\Desktop\DELPHI\Unit3.fmx=C:\Users\miki\Desktop\DELPHI\Kontakt.fmx</Transaction>
+    <Transaction>2024/06/06 12:07:05.000.736,=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/06 13:32:57.000.960,C:\Users\miki\Desktop\DELPHI\AdminPregled.pas=C:\Users\miki\Desktop\DELPHI\Unit3.pas</Transaction>
+    <Transaction>2024/06/06 13:32:57.000.960,C:\Users\miki\Desktop\DELPHI\AdminPregled.fmx=C:\Users\miki\Desktop\DELPHI\Unit3.fmx</Transaction>
+  </Transactions>
+</BorlandProject>

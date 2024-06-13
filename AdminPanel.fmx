@@ -1,0 +1,50 @@
+object Panel: TPanel
+  Left = 0
+  Top = 0
+  Caption = 'Panel'
+  ClientHeight = 519
+  ClientWidth = 773
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object RectAnimation1: TRectAnimation
+    Duration = 0.200000002980232200
+  end
+  object Rectangle2: TRectangle
+    Align = Client
+    Fill.Color = claMoccasin
+    Size.Width = 773.000000000000000000
+    Size.Height = 519.000000000000000000
+    Size.PlatformDefault = False
+    object Text1: TText
+      Position.X = 256.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 257.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Dobrodosli u admin panel'
+      TextSettings.Font.Size = 20.000000000000000000
+    end
+    object Button1: TButton
+      Position.X = 224.000000000000000000
+      Position.Y = 152.000000000000000000
+      Size.Width = 289.000000000000000000
+      Size.Height = 78.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'Prikazi sve zakazane termine'
+      OnClick = Button1Click
+    end
+    object Button4: TButton
+      Position.X = 296.000000000000000000
+      Position.Y = 432.000000000000000000
+      Size.Width = 169.000000000000000000
+      Size.Height = 49.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'Odjavi se'
+      OnClick = Button4Click
+    end
+  end
+end
